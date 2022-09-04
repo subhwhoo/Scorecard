@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.score{
+    background: #0a0001;
+    font-size: 100px;
+    width: 120px;
+    margin: 20px;
+    color: #F94F6D;
+}
+.guestScore{
+    background: #0a0001;
+    font-size: 100px;
+    width: 120px;
+    margin: 20px;
+    color: #F94F6D;
+}
+.container{ 
+    display: flex;
+    justify-content: space-around;
+}
